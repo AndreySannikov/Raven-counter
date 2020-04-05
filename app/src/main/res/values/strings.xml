@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Raven Counter</string>
+    <string name="Greeting">Поздороваться</string>
+</resources>
